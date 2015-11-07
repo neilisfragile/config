@@ -1,10 +1,10 @@
-set rtp+=$HOME/.vim/bundle/vundle
-call vundle#rc()
-Bundle 'gmarik/vundle'
+"set rtp+=$HOME/.vim/bundle/vundle
+"call vundle#rc()
+"Bundle 'gmarik/vundle'
 filetype plugin indent on
 
-Bundle 'kien/ctrlp.vim'
-Bundle 'vim-scripts/The-NERD-tree'
+"Bundle 'kien/ctrlp.vim'
+"Bundle 'vim-scripts/The-NERD-tree'
 
 " Number of spaces that a pre-existing tab is equal to.
 " For the amount of space used for a new tab use shiftwidth.
@@ -65,7 +65,7 @@ set number
 "highlight search terms"
 set hls
 "pathogen package manager"
-execute pathogen#infect()
+"execute pathogen#infect()
 
 set showcmd     " show comman in bottom bar
 set wildmenu    " visual autocomplete for command menu
