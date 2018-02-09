@@ -1,6 +1,6 @@
-"set rtp+=$HOME/.vim/bundle/vundle
-"call vundle#rc()
-"Bundle 'gmarik/vundle'
+" set rtp+=$HOME/.vim/bundle/vundle
+" call vundle#rc()
+" Bundle 'gmarik/vundle'
 filetype plugin indent on
 
 "Bundle 'kien/ctrlp.vim'
@@ -75,3 +75,6 @@ set showmatch   " highlight matching [{()}]
  nnoremap j gj
  nnoremap k gk
 
+
+
+set paste 
