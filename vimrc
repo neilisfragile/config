@@ -1,10 +1,4 @@
-" set rtp+=$HOME/.vim/bundle/vundle
-" call vundle#rc()
-" Bundle 'gmarik/vundle'
 filetype plugin indent on
-
-"Bundle 'kien/ctrlp.vim'
-"Bundle 'vim-scripts/The-NERD-tree'
 
 " Number of spaces that a pre-existing tab is equal to.
 " For the amount of space used for a new tab use shiftwidth.
